@@ -84,7 +84,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📌Author
 
-👤 **Kishan Kumar Rai**
+👤 **Chetan Sharma*
 
 - Github: [@Chetan Sharma](https://github.com/TranceOp)
 - LinkedIn: [@Chetan Sharma](https://www.linkedin.com/in/chetan-sharma-7a12011b8/)
